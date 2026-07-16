@@ -1,6 +1,4 @@
 # ALARA
-# ALARA
-
 A space designed to slow down.
 
 ALARA is an architectural concept exploring presence, silence, and essential living.
